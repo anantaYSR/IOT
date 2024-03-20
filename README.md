@@ -10,19 +10,18 @@ Kelompok (tidak ada nomor nya) 2024 :
 ## Deskripsi :
 1. Proyek ini bertujuan untuk membuat sebuah sistem IoT yang menggunakan mikrokontroler ESP8266 untuk mengontrol sebuah LED, mengambil data dari sensor DHT11, dan mengintegrasikan semua informasi ini ke dalam dashboard ThingSpeak/Thinger.io/Blynk Pada proyek ini, hasil deteksi dari sensor DHT11 akan dikonversikan menjadi Celsius, Fahrenheit, dan Kelvin, dan ditampilkan juga pada dashboard ThingSpeak/Thinger.io/Blynk.
 
-
 ## Pembagian Tugas :
 - Ananta = Pembuatan rangkaian 
 - Bayu = Konfigurasi ThinkSpeak dan LED
 
 ## Komponen Yang Digunakan :
-1. ESP8266(NodeMCU)
+1. ESP8266(NodeMCU) 
 2. Bread Board
 3. Kabel Jumper
-4. Resistor
+4. Resistor (hambatan listrik menuju LED dan Buzzer)
 5. LED
-6. Button
-7. Buzzer
+6. DH11 (Suhu dan Kelembapan)
+7. Buzzer (Suara)
 
 
 ## Board Schematic
