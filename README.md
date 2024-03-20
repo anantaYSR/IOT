@@ -13,7 +13,7 @@ Kelompok (tidak ada nomor nya) 2024 :
 
 ## Pembagian Tugas :
 - Ananta = Pembuatan rangkaian LED
-- Bayu = Konfigurasi WEBSERVER dan LED
+- Bayu = Konfigurasi ThinkSpeak dan LED
 
 ## Komponen Yang Digunakan :
 1. ESP8266(NodeMCU)
