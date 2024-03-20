@@ -12,7 +12,7 @@ Kelompok (tidak ada nomor nya) 2024 :
 
 
 ## Pembagian Tugas :
-- Ananta = Pembuatan rangkaian LED
+- Ananta = Pembuatan rangkaian 
 - Bayu = Konfigurasi ThinkSpeak dan LED
 
 ## Komponen Yang Digunakan :
